@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-ssm-web" />
+        <module name="ssm_domain" />
+        <module name="ms-ssm-dao" />
+        <module name="heima_ssm_domain" />
+        <module name="heima_ssm_service" />
+        <module name="ssm_web" />
+        <module name="ssm_service" />
+        <module name="heima_ssm_web" />
+        <module name="ms-ssm-service" />
+        <module name="ms-ssm-domain" />
+        <module name="ms-ssm-utils" />
+        <module name="heima_ssm_utils" />
+        <module name="mybatis01" />
+        <module name="mybatis03" />
+        <module name="mybatis02" />
+        <module name="heima_ssm_dao" />
+        <module name="ssm_dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jpa_day01" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
